@@ -59,11 +59,8 @@ The SSIS pipeline loads CSV files into staging tables, validates and transforms 
 
 - [Staging Data Flow](screenshots/13_ETL_csv_to_staging_load.png)
 - [Staging-to-Main Processing](screenshots/05_staging_to_main_load.png)
-<<<<<<< HEAD
 - [ETL Logging Results](screenshots/09_etl_run_failed_log.png)
-=======
 - [ETL Logging Results](screenshots/08_etl_run_success_log.png)
->>>>>>> 11403378c63ded99f073d6b1cf468a8a2bfb47c7
 - [SQL Server Agent Scheduling](screenshots/12_SSIS_deployment.png)
 
 ### Architecture at a Glance

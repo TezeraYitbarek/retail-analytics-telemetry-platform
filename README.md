@@ -39,7 +39,7 @@ The platform follows an end-to-end data integration and analytics architecture, 
 
 ### Sales Overview: Interactive Dashboard with Filters
 
-![Sales Overview Dashboard](screenshots/Sales_overview.png)
+![Sales Overview Dashboard](screenshots/11_Sales_overview.png)
 
 ## Power BI Data Model (Star Schema)
 
